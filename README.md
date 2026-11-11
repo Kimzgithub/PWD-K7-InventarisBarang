@@ -1,4 +1,11 @@
-# Proyek PWD Kelompok — Inventaris Barang (Vue.js + Express + MySQL + Tailwind CSS)
+#PWD-K7-InventarisBarang
+
+Kelompok 7:
+- Khairunisa Ansyari Ramadhan H110121057
+- Riko H1101251065
+- LUQMANURHAKIM H1101251067
+- Charles Wong H1101251012
+
 
 Proyek Pertemuan 14, Pemrograman Web Dasar (Universitas Tanjungpura).
 
